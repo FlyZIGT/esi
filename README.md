@@ -28,6 +28,8 @@ When the instalation finish to run the script type:
 
 # Linux Instalation
 
+![PCLinux](https://user-images.githubusercontent.com/87572313/128749045-59b38cec-55e3-4b3f-ae0e-27ff7d039eb5.jpg)
+
 First clone the repository with that command: 
  
 **` git clone https://github.com/FlyZIGT/esi.git `**
