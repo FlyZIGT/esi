@@ -7,9 +7,9 @@ init(autoreset=True)
 
 os.system("clear")
 time.sleep(0.7)
-os.system('figlet ESI')
+os.system('figlet ESI v1')
 time.sleep(0.3)
-print('\nEasy Scan Ip')
+print('\nEasy Scan Ip\n\nDev: py#6650\n\nOpen-Source project\n\n')
 
 ip=input(Fore.BLUE + "Type the target ip\n> ")
 esi = nmap.PortScanner()
