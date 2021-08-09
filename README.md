@@ -40,7 +40,7 @@ Next go to the directory typing:
 
 Then run the installer executing:
 
-**` python3 linux-installer.py `**
+**` sudo python3 linux-installer.py `**
 
 When the instalation finish to run the script type:
 
