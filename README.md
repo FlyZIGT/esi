@@ -12,7 +12,7 @@ A Open-Source Port Scanner based on nmap
 
  First clone the repository with that command: 
  
-**` git clone x `**
+**` git clone https://github.com/FlyZIGT/esi.git `**
 
 Next go to the directory typing: 
 
@@ -26,4 +26,25 @@ When the instalation finish to run the script type:
 
 **` esi `**
 
-![
+# Linux Instalation
+
+First clone the repository with that command: 
+ 
+**` git clone https://github.com/FlyZIGT/esi.git `**
+
+Next go to the directory typing: 
+
+**` cd esi `**
+
+Then run the installer executing:
+
+**` python3 linux-installer.py `**
+
+When the instalation finish to run the script type:
+
+**` esi `**
+
+# Windows 
+Ccoming soon..
+
+
